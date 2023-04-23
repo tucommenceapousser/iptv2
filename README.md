@@ -41,7 +41,9 @@ And here is the full version:
 ```
 https://iptv-org.github.io/iptv/index.nsfw.m3u
 ```
-
+```
+https://tucommenceapousser.github.io/iptv2/index.nsfw.m3u
+```
 ### Grouped by category
 
 <details>
